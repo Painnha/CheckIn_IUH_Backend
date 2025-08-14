@@ -56,6 +56,7 @@ router.post('/checkin', protect, async (req, res) => {
       name: participant.name, 
       organization: participant.organization,
       seatNumber: participant.seatNumber,
+      avatar: participant.avatar,
       message: `Chào mừng ${participant.name} (${participant.organization}) đến với đại hội!` 
     });
     io.emit('stats-update');  // Để FE refresh stats
