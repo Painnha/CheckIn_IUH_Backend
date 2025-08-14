@@ -17,19 +17,12 @@ const allowedOrigins = process.env.CORS_ORIGINS
 const io = socketIo(server, {
   cors: {
     origin: allowedOrigins,
-    methods: ['GET', 'POST'],
-    allowedHeaders: ['Content-Type', 'Authorization'],
-    credentials: true
+    methods: ['GET', 'POST']
   }
 });
 app.set('io', io);
 
-const corsOptions = { 
-  origin: allowedOrigins,
-  credentials: true
-};
-app.use(cors(corsOptions));  // Enable CORS cho API dựa theo env
-app.options('*', cors(corsOptions)); // Xử lý preflight cho mọi route
+app.use(cors({ origin: allowedOrigins }));  // Enable CORS cho API dựa theo env
 app.use(express.json());
 
 // Kết nối MongoDB
