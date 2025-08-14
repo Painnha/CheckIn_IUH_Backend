@@ -9,15 +9,27 @@ dotenv.config();
 
 const app = express();
 const server = http.createServer(app);
+// Cấu hình CORS từ biến môi trường: CORS_ORIGINS="http://localhost:3000,https://your-site.com"
+const allowedOrigins = process.env.CORS_ORIGINS
+  ? process.env.CORS_ORIGINS.split(',').map((o) => o.trim()).filter(Boolean)
+  : ['http://localhost:3000'];
+
 const io = socketIo(server, {
   cors: {
-    origin: ['http://localhost:3000', 'https://your-netlify-site.netlify.app'],  // Thêm domain FE sau khi deploy
-    methods: ['GET', 'POST']
+    origin: allowedOrigins,
+    methods: ['GET', 'POST'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
+    credentials: true
   }
 });
 app.set('io', io);
 
-app.use(cors());  // Enable CORS cho API
+const corsOptions = { 
+  origin: allowedOrigins,
+  credentials: true
+};
+app.use(cors(corsOptions));  // Enable CORS cho API dựa theo env
+app.options('*', cors(corsOptions)); // Xử lý preflight cho mọi route
 app.use(express.json());
 
 // Kết nối MongoDB
