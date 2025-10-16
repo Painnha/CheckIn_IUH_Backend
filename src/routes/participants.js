@@ -9,7 +9,7 @@ const router = express.Router();
 // Generate QR (POST /api/participants/generate) - Admin only
 router.post('/generate', protect, async (req, res) => {
   if (req.user.role !== 'admin') return res.status(403).json({ message: 'Admin only' });
-  const participants = req.body;  // Array từ upload CSV/JSON: [{id, name, organization, avatar, seatNumber}]
+  const participants = req.body;  // Array từ upload CSV/JSON: [{id, name, organization}]
   try {
     const results = [];
     for (const p of participants) {
@@ -17,9 +17,8 @@ router.post('/generate', protect, async (req, res) => {
       const newParticipant = new Participant({ 
         id: p.id, 
         name: p.name, 
-        organization: p.organization,
-        avatar: p.avatar,
-        seatNumber: p.seatNumber,
+        organization: p.organization,   
+        room: p.room,
         qrCode 
       });
       await newParticipant.save();
@@ -27,8 +26,7 @@ router.post('/generate', protect, async (req, res) => {
         id: p.id, 
         name: p.name, 
         organization: p.organization,
-        avatar: p.avatar,
-        seatNumber: p.seatNumber,
+        room: p.room,
         qrCode 
       });
     }
@@ -53,10 +51,10 @@ router.post('/checkin', protect, async (req, res) => {
     // Emit Socket.io events
     const io = req.app.get('io');  // Giả sử set io ở index.js: app.set('io', io);
     io.emit('welcome', { 
+      id: participant.id,
       name: participant.name, 
       organization: participant.organization,
-      seatNumber: participant.seatNumber,
-      avatar: participant.avatar,
+      room: participant.room,
       message: `Chào mừng ${participant.name} (${participant.organization}) đến với đại hội!` 
     });
     io.emit('stats-update');  // Để FE refresh stats
@@ -64,10 +62,10 @@ router.post('/checkin', protect, async (req, res) => {
     res.json({ 
       message: 'Check-in successful',
       participant: {
+        id: participant.id,
         name: participant.name,
         organization: participant.organization,
-        avatar: participant.avatar,
-        seatNumber: participant.seatNumber
+        room: participant.room,
       }
     });
   } catch (err) {

@@ -76,8 +76,8 @@ async function main() {
 
   for (const participant of participants) {
     try {
-      const { id, name, qrCode } = participant;
-      if (!qrCode || !id || !name) {
+      const { id, qrCode } = participant;
+      if (!qrCode || !id) {
         skipCount += 1;
         continue;
       }
@@ -88,7 +88,7 @@ async function main() {
         continue;
       }
 
-      const filename = sanitizeFileName(`${id}_${name}.png`);
+      const filename = sanitizeFileName(`${id}.png`);
       const filePath = path.join(OUTPUT_DIR, filename);
       const buffer = Buffer.from(base64, 'base64');
       fs.writeFileSync(filePath, buffer);

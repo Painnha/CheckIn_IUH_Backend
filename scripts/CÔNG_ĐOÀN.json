@@ -1,0 +1,254 @@
+[
+  {
+    "id": "CD01",
+    "name": "Nguyễn Thị Kiều Chinh",
+    "organization": "CĐCS Công ty TNHH May thêu Hà Giang",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD02",
+    "name": "Nguyễn Tố Đạt",
+    "organization": "CĐCS Công ty TNHH Hoàng Trung Chính",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD03",
+    "name": "Nguyễn Thị Hồng Gấm",
+    "organization": "CĐCS Trường Trung học cơ sở An Nhơn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD04",
+    "name": "Mai Nữ Thiện Hằng",
+    "organization": "CĐCS Công ty TNHH Đầu tư Địa ốc Thành phố",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD05",
+    "name": "Phạm Tấn Hào",
+    "organization": "CĐCS Công ty TNHH Duy Tân Japan",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD06",
+    "name": "Phạm Thị Thu Hiền",
+    "organization": "CĐCS Trường Mầm Non Họa Mi",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD07",
+    "name": "Nguyễn Thị Thanh Hiền",
+    "organization": "CĐCS CN Công ty TNHH Công nghiệp Nam Sài Gòn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD08",
+    "name": "Trịnh Xuân Hợp",
+    "organization": "Công đoàn phường An Nhơn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD09",
+    "name": "Nguyễn Phú Hùng",
+    "organization": "CĐCS Trường Tiểu học Nguyễn Viết Xuân",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD10",
+    "name": "Nguyễn Ngọc Thiên Hương",
+    "organization": "CĐCS Công ty TNHH Đầu tư Địa ốc Thành phố",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD11",
+    "name": "Vũ Hồng Khanh",
+    "organization": "CĐCS Trường CĐ Văn Lang Sài Gòn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD12",
+    "name": "Đậu Văn Khánh",
+    "organization": "CĐCS Trường THCS Nguyễn Văn Nghi",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD13",
+    "name": "Nguyễn Thị Anh Kim",
+    "organization": "CĐCS Công ty TNHH SeDo-Vina",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD14",
+    "name": "Lương Lê Lâm",
+    "organization": "Công đoàn phường An Nhơn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD15",
+    "name": "Nguyễn Trần Đăng Lâm",
+    "organization": "CĐCS Trường TH, THCS và THPT Nam Mỹ",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD16",
+    "name": "Nguyễn Thị Kim Liên",
+    "organization": "CĐCS Trung tâm hỗ trợ PTGD Hòa nhập Thiên Thần",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD17",
+    "name": "Nguyễn Thùy Linh",
+    "organization": "Công đoàn phường An Nhơn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD18",
+    "name": "Trần Vũ Linh",
+    "organization": "CĐCS Trường TiH, THCS, THPT Nam Mỹ",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD19",
+    "name": "Nguyễn Thị Tuyết Mai",
+    "organization": "CĐCS Công ty TNHH NTL GROUP",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD20",
+    "name": "Nguyễn Thị Hoàng Oanh",
+    "organization": "CĐCS Trường Tiểu học Hoàng Văn Thụ",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD21",
+    "name": "Nguyễn Thị Bích Phượng",
+    "organization": "CĐCS Trường Trung học phổ thông Trần Hưng Đạo",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD22",
+    "name": "Nguyễn Tấn Quế",
+    "organization": "CĐCS Trường THPT Trần Hưng Đạo",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD23",
+    "name": "Nguyễn Đổ Diểm Quỳnh",
+    "organization": "CĐCS Công ty CP CN Giải pháp Thi Thiên",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD24",
+    "name": "Phạm Thị Thu Tâm",
+    "organization": "CĐCS Công ty TNHH XD TM Hồng Việt",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD25",
+    "name": "Huỳnh Kỳ Thành",
+    "organization": "CĐCS Công ty TNHH Quản lý Dịch vụ Bất động sản Thành phố",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD26",
+    "name": "Nguyễn Thị Kim Thoa",
+    "organization": "CĐCS Công ty TNHH Wolf Logistics",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD27",
+    "name": "Chung Thị Anh Thu",
+    "organization": "Ủy ban Mặt trận tổ quốc Việt Nam phường An Nhơn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD28",
+    "name": "Lê Thị Thuỷ",
+    "organization": "CĐCS Công ty TNHH May thêu Hà Giang",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD29",
+    "name": "Lê Thị Thanh Thuỷ",
+    "organization": "CĐCS Công ty TNHH MTV Dịch vụ công ích",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD30",
+    "name": "Vũ Thị Thanh Thúy",
+    "organization": "CĐCS Trường TH Hoàng Văn Thụ",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD31",
+    "name": "Nguyễn Thuyên",
+    "organization": "CĐCS Trường THPT Lý Thái Tổ",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD32",
+    "name": "Trần Mỹ Trinh",
+    "organization": "CĐCS Công ty TNHH Bình Mỹ Gold",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD33",
+    "name": "Trần Nguyên Tú",
+    "organization": "CĐCS Công ty TNHH MTV An Lộc Việt",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD34",
+    "name": "Lê Đình Tuấn",
+    "organization": "CĐCS Công ty TNHH MTV Dịch vụ công ích",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD35",
+    "name": "Lê Mộng Tuyền",
+    "organization": "CĐCS Trường Mầm non An Nhơn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD36",
+    "name": "Phạm Thị Mộng Tuyền",
+    "organization": "CĐCS Trường THCS An Nhơn",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD37",
+    "name": "Nguyễn Thị Kim Uyên",
+    "organization": "CĐCS Công ty TNHH MTV Dịch vụ Công ích quận Gò Vấp",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD38",
+    "name": "Lã Thị Vui",
+    "organization": "CĐCS Trường Trung học cơ sở Nguyễn Văn Nghi",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD39",
+    "name": "Hồ Thoại Vy",
+    "organization": "CĐCS Trường Mầm non Hoa Phượng Đỏ",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD40",
+    "name": "Đoàn Thị Yến",
+    "organization": "CĐCS Công ty TNHH XD Sông Lục",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD41",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Công đoàn"
+  },
+  {
+    "id": "CD42",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Công đoàn"
+  }
+]

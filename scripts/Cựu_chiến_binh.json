@@ -1,0 +1,542 @@
+[
+  {
+    "id": "CCB01",
+    "name": "Trần Hữu Sanh",
+    "organization": "Hội CCB  phường",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB02",
+    "name": "Phan Thanh Phong",
+    "organization": "Hội CCB  phường",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB03",
+    "name": "Nguyễn Quang Cường",
+    "organization": "Hội CCB  phường",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB04",
+    "name": "Nguyễn Chí Thanh",
+    "organization": "CH1",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB05",
+    "name": "Nguyễn Văn Giàu",
+    "organization": "CH2",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB06",
+    "name": "Nguyễn Văn Tình",
+    "organization": "CH3",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB07",
+    "name": "Vũ Thái Bình",
+    "organization": "CH4",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB08",
+    "name": "Nguyễn Thanh Sơn",
+    "organization": "CH5",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB09",
+    "name": "Lê Kim Bảng",
+    "organization": "CH5",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB10",
+    "name": "Trần Văn Tâm",
+    "organization": "CH6",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB11",
+    "name": "Nguyễn Thanh Lịch",
+    "organization": "CH6",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB12",
+    "name": "Nguyễn Hữu Hùng",
+    "organization": "CH6",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB13",
+    "name": "Phan Thị Hồng Đào",
+    "organization": "CH6",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB14",
+    "name": "Hoàng Quang Tuyến",
+    "organization": "CH7",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB15",
+    "name": "Nguyễn Hữu Hùng",
+    "organization": "CH7",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB16",
+    "name": "Nguyễn Đức Hà",
+    "organization": "CH7",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB17",
+    "name": "Lê Quang Lực",
+    "organization": "CH7",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB18",
+    "name": "Phạm Văn Khương",
+    "organization": "CH7",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB19",
+    "name": "Phạm Quang Ngoan",
+    "organization": "CH7",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB20",
+    "name": "Hoàng Thị Sáu",
+    "organization": "CH7",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB21",
+    "name": "Hoàng Văn Tùng",
+    "organization": "CH7",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB22",
+    "name": "Nguyễn Văn Lộc",
+    "organization": "CH8",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB23",
+    "name": "Nguyễn Thị ngát",
+    "organization": "CH8",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB24",
+    "name": "Hoàng Như Điển",
+    "organization": "CH9",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB25",
+    "name": "Nguyễn Tấn Tài",
+    "organization": "CH10",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB26",
+    "name": "Nguyễn Chính Vinh",
+    "organization": "CH11",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB27",
+    "name": "Nguyễn Văn Thạch",
+    "organization": "CH12",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB28",
+    "name": "Trương Văn Phúc",
+    "organization": "CH13",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB29",
+    "name": "Cao Duy Chiêu",
+    "organization": "CH14",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB30",
+    "name": "Đặng Cao Văn",
+    "organization": "CH14",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB31",
+    "name": "Lê Văn Hùng",
+    "organization": "CH15",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB32",
+    "name": "Đinh Quí Long",
+    "organization": "CH17",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB33",
+    "name": "Lưu Thị Phượng",
+    "organization": "CH18",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB34",
+    "name": "Đinh Văn Hiến",
+    "organization": "CH19",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB35",
+    "name": "Nguyễn Văn Dậu",
+    "organization": "CH20",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB36",
+    "name": "Bùi Quang Dụ",
+    "organization": "CH21",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB37",
+    "name": "Phạm Thanh Tâm",
+    "organization": "CH21",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB38",
+    "name": "Hoàng Minh Tân",
+    "organization": "CH22",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB39",
+    "name": "Tán Hồng Quang",
+    "organization": "CH22",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB40",
+    "name": "Phạm Khuyến",
+    "organization": "CH23",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB41",
+    "name": "Nguyễn Công Đoàn",
+    "organization": "CH24",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB42",
+    "name": "Phan Xuân Phúc",
+    "organization": "CH24",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB43",
+    "name": "Nguyễn Văn Hương",
+    "organization": "CH25",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB44",
+    "name": "Nhâm sĩ Thắng",
+    "organization": "CH25",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB45",
+    "name": "Trần Minh Khôi",
+    "organization": "CH25",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB46",
+    "name": "Lương Công Vũ",
+    "organization": "CH26",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB47",
+    "name": "Đinh Văn Lợi",
+    "organization": "CH27",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB48",
+    "name": "Nguyễn Văn Thi",
+    "organization": "CH27",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB49",
+    "name": "Nguyễn Văn Đàm",
+    "organization": "CH27",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB50",
+    "name": "Đặng Tuấn Phương",
+    "organization": "CH27",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB51",
+    "name": "Ngô Văn Thịnh",
+    "organization": "CH27",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB52",
+    "name": "Đỗ Văn Thủy",
+    "organization": "CH28",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB53",
+    "name": "Nguyễn Văn Huy",
+    "organization": "CH28",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB54",
+    "name": "Đoàn Đức Hậu",
+    "organization": "CH28",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB55",
+    "name": "Ninh Văn Cử",
+    "organization": "CH28",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB56",
+    "name": "Nguyễn Quang Ngọc",
+    "organization": "CH28",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB57",
+    "name": "Chử Văn Sơn",
+    "organization": "CH29",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB58",
+    "name": "Nguyễn Thị Thu",
+    "organization": "CH30",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB59",
+    "name": "Pham Thanh Lương",
+    "organization": "CH31",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB60",
+    "name": "Nguyễn Hùng Cường",
+    "organization": "CH31",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB61",
+    "name": "Doãn Văn Hướng",
+    "organization": "CH32",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB62",
+    "name": "Nguyễn Hữu Điềm",
+    "organization": "CH32",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB63",
+    "name": "Nguyễn Thanh Bình",
+    "organization": "CH33",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB64",
+    "name": "Trương Văn Dẽn",
+    "organization": "CH33",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB65",
+    "name": "Nguyễn Văn Hòa",
+    "organization": "CH33",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB66",
+    "name": "Hoàng Trong Quỳnh",
+    "organization": "CH34",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB67",
+    "name": "Bùi Đăng Tân",
+    "organization": "CH34",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB68",
+    "name": "Đoàn Thị Thanh Tĩnh",
+    "organization": "CH34",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB69",
+    "name": "Chu Văn Bình",
+    "organization": "CH34",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB70",
+    "name": "Mai Xuân Bình",
+    "organization": "CH35",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB71",
+    "name": "Đỗ Văn Thái",
+    "organization": "CH35",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB72",
+    "name": "Đào Nhị Kỳ",
+    "organization": "CH36",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB73",
+    "name": "Nguyễn Văn Soan",
+    "organization": "CH37",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB74",
+    "name": "Vũ Nam",
+    "organization": "CH38",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB75",
+    "name": "Trần Thị Hà",
+    "organization": "CH38",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB76",
+    "name": "Mã Thị Thuyết",
+    "organization": "CH38",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB77",
+    "name": "Nguyễn Thanh Bình",
+    "organization": "CH39",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB78",
+    "name": "Nguyễn Văn Quý",
+    "organization": "CH40",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB79",
+    "name": "Nguyễn Văn Huy",
+    "organization": "CH41",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB80",
+    "name": "Trần Viết Thành",
+    "organization": "CH41",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB81",
+    "name": "Lương Đình Tư",
+    "organization": "CH42",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB82",
+    "name": "Trương Công Sanh",
+    "organization": "CH42",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB83",
+    "name": "Lê Anh Ghê",
+    "organization": "CH43",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB84",
+    "name": "Nguyễn Văn Hồng",
+    "organization": "CH44",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB85",
+    "name": "Đỗ Văn Mạnh",
+    "organization": "DVCI",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB86",
+    "name": "Hoàng Thọ Luật  CLB- KT",
+    "organization": "CLB- KT",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB87",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB88",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB89",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Cựu chiến binh"
+  },
+  {
+    "id": "CCB90",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Cựu chiến binh"
+  }
+]

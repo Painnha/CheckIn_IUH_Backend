@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "MT001",
+    "name": "Đ/c Nguyễn Thành Trung",
+    "organization": "Thành ủy viên, Phó Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam Thành phố, Chủ tịch Hội Nông dân Thành phố",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT002",
+    "name": "Đ/c Phạm Trung Kiên",
+    "organization": "Bí thư Đảng ủy/Chủ tịch Hội đồng nhân dân phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT003",
+    "name": "Đ/c Lê Thị Kim Thủy",
+    "organization": "Phó Bí thư Thường trực Đảng ủy phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT004",
+    "name": "Đ/c Trần Tuấn Phát",
+    "organization": "Chỉ huy trưởng BCH Quân sự phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT005",
+    "name": "Đại đức Thích Quảng Hạnh",
+    "organization": "Trụ trì Chùa Như Lai",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT006",
+    "name": "Thượng tọa Thích Thiện Lạc",
+    "organization": "Trụ trì Chùa Chưởng Huệ",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT007",
+    "name": "Nguyễn Văn Thức",
+    "organization": "PCT Hội đồng Mục vụ Giáo xứ Bến Hải",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT008",
+    "name": "Phạm Thị Kim Loan",
+    "organization": "Hội đồng Mục vụ Giáo xứ Bến Cát",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT009",
+    "name": "Nguyễn Thị Khánh Trúc",
+    "organization": "Dòng Nữ Tu Âu Tinh Đức Bà An Ủi",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT010",
+    "name": "Nguyễn Văn Thủy",
+    "organization": "Trưởng ban quản lý Đình An Nhơn",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT011",
+    "name": "Phạm Anh Tuấn",
+    "organization": "Trưởng ban trị sự Sa Tân Miếu",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT012",
+    "name": "Lục Câu",
+    "organization": "Trưởng ban trị sự Phù Châu Miếu",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT013",
+    "name": "Trần Thị Liễu",
+    "organization": "Ngân hàng Eximbank",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT014",
+    "name": "Nguyễn Ngọc Thiên Hương",
+    "organization": "Chủ tịch Công đoàn Công ty TNHH Đầu tư Địa ốc Thành phố (Cityland)",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT015",
+    "name": "Nguyễn Đình Sáng",
+    "organization": "Ban TTND",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT016",
+    "name": "Nguyễn Trọng Dũng",
+    "organization": "Ủy viên NK cũ",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT017",
+    "name": "Võ Văn Mẫn",
+    "organization": "Ủy viên NK cũ",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT018",
+    "name": "Huỳnh Thị Thu Hà",
+    "organization": "Ủy viên NK cũ",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT019",
+    "name": "Lâm Phát",
+    "organization": "Ủy viên NK cũ",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT020",
+    "name": "Lâm Xuân Hoa",
+    "organization": "Nguyên Chủ tịch UBMTTQVN phường 6, nhiệm kỳ 2024-2029",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT021",
+    "name": "Nguyễn Văn Duân",
+    "organization": "Trưởng ban CTMT Khu phố 32",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT022",
+    "name": "Lê Văn Đẹp",
+    "organization": "Trưởng ban CTMT Khu phố 38",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT023",
+    "name": "Trần Đình Thắng",
+    "organization": "Phó viện trưởng viện Công nghệ sinh học và thực phẩm/Tổng biên tập NXB Đại học Công nghệp TP HCM",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT024",
+    "name": "Hoàng Minh Tân",
+    "organization": "Trưởng ban CTMT Khu phố 22",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT025",
+    "name": "Hà Thị Thoan",
+    "organization": "Trưởng ban CTMT Khu phố 5",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT026",
+    "name": "Vũ Thị Huệ",
+    "organization": "Trưởng ban CTMT Khu phố 37",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT027",
+    "name": "Mai Xuân Thu",
+    "organization": "Trưởng ban CTMT Khu phố 43",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT028",
+    "name": "Phạm Tấn Thông",
+    "organization": "Thành viên CLB CCB-Cựu quân nhân làm kinh tế",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT029",
+    "name": "Đỗ Bảo Châu",
+    "organization": "Trưởng ban CTMT Khu phố 26",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT030",
+    "name": "Nguyễn Thị Hải",
+    "organization": "Trưởng ban CTMT Khu phố 23",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT031",
+    "name": "Lê Hồng Tuế",
+    "organization": "Tổ trưởng Tổ liên lạc người VN ở nước ngoài",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT032",
+    "name": "Nguyễn Thị Kim Hoàng",
+    "organization": "Trưởng ban CTMT Khu phố 41",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT033",
+    "name": "Đoàn Thị Thanh Tĩnh",
+    "organization": "Trưởng ban CTMT Khu phố 34",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT034",
+    "name": "Nguyễn Tăng Sánh",
+    "organization": "Trưởng ban CTMT Khu phố 6",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT035",
+    "name": "Nguyễn Thị Bảo Ngọc",
+    "organization": "Trưởng ban CTMT Khu phố 24",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT036",
+    "name": "Nguyễn Thị Nam",
+    "organization": "Chuyên viên UB MTTQ Việt Nam phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT037",
+    "name": "Lương Lê Lâm",
+    "organization": "Chuyên viên UB MTTQ Việt Nam phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT038",
+    "name": "Đỗ Thị Minh Thuận",
+    "organization": "Trưởng ban CTMT Khu phố 1",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT039",
+    "name": "Mã Thị Mỹ Ngọc",
+    "organization": "Trưởng ban CTMT Khu phố 2",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT040",
+    "name": "Lư Kim Tuấn",
+    "organization": "Trưởng ban CTMT Khu phố 3",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT041",
+    "name": "Lê Văn Phước",
+    "organization": "Trưởng ban CTMT Khu phố 4",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT042",
+    "name": "Chu Thị Yến",
+    "organization": "Trưởng ban CTMT Khu phố 7",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT043",
+    "name": "Nguyễn Văn Cường",
+    "organization": "Trưởng ban CTMT Khu phố 8",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT044",
+    "name": "Nguyễn Văn Hằng",
+    "organization": "Trưởng ban CTMT Khu phố 9",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT045",
+    "name": "Trần Đức Văn",
+    "organization": "Trưởng ban CTMT Khu phố 10",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT046",
+    "name": "Đoàn Văn Thanh Long",
+    "organization": "Trưởng ban CTMT Khu phố 11",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT047",
+    "name": "Lê Thị Hồng Duyên",
+    "organization": "Trưởng ban CTMT Khu phố 12",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT048",
+    "name": "Nguyễn Thị Hồng Lan",
+    "organization": "Trưởng ban CTMT Khu phố 13",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT049",
+    "name": "Đinh Thị Thiêm",
+    "organization": "Trưởng ban CTMT Khu phố 14",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT050",
+    "name": "Nguyễn Văn Từ",
+    "organization": "Trưởng ban CTMT Khu phố 15",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT051",
+    "name": "Phạm Thị Vẹn",
+    "organization": "Trưởng ban CTMT Khu phố 16",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT052",
+    "name": "Phan Thị Minh Hiền",
+    "organization": "Trưởng ban CTMT Khu phố 17",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT053",
+    "name": "Trương Hoàng Xuân",
+    "organization": "Trưởng ban CTMT Khu phố 20",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT054",
+    "name": "Nguyễn Thị Kim Xuân",
+    "organization": "Trưởng ban CTMT Khu phố 25",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT055",
+    "name": "Nguyễn Thị Ái Mỹ",
+    "organization": "Trưởng ban CTMT Khu phố 27",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT056",
+    "name": "Ninh Văn Cử",
+    "organization": "Trưởng ban CTMT Khu phố 28",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT057",
+    "name": "Nguyễn Thị Diễm Trinh",
+    "organization": "Trưởng ban CTMT Khu phố 29",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT058",
+    "name": "Nguyễn Thị Thu",
+    "organization": "Trưởng ban CTMT Khu phố 30",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT059",
+    "name": "Phạm Thị Hòa",
+    "organization": "Trưởng ban CTMT Khu phố 31",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT060",
+    "name": "Nguyễn Văn Duẩn",
+    "organization": "Trưởng ban CTMT Khu phố 33",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT061",
+    "name": "Mai Xuân Bình",
+    "organization": "Trưởng ban CTMT Khu phố 35",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT062",
+    "name": "Huỳnh Văn Biết",
+    "organization": "Trưởng ban CTMT Khu phố 36",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT063",
+    "name": "Trần Thị Nguyệt",
+    "organization": "Trưởng ban CTMT Khu phố 39",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT064",
+    "name": "Trương Lệ Hương",
+    "organization": "Trưởng ban CTMT Khu phố 40",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT065",
+    "name": "Võ Thị Hồng Nhung",
+    "organization": "Trưởng ban CTMT Khu phố 42",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT066",
+    "name": "Đặng Thị Ngọc Lan",
+    "organization": "Trưởng ban CTMT Khu phố 44",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT067",
+    "name": "Phạm Tiến Đảm",
+    "organization": "ĐB KP 1",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT068",
+    "name": "Lê Thị Mỹ Thanh",
+    "organization": "ĐB KP 2",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT069",
+    "name": "Nguyễn Hải Thọ",
+    "organization": "ĐB KP 3",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT070",
+    "name": "Đỗ Thị Thành Hiệp",
+    "organization": "ĐB KP 4",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT071",
+    "name": "Nguyễn Thị Oanh Yến",
+    "organization": "ĐB KP 5",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT072",
+    "name": "Nguyễn Thị Thu Huyền",
+    "organization": "ĐB KP 6",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT073",
+    "name": "Lê Quang Lực",
+    "organization": "ĐB KP 7",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT074",
+    "name": "Lê Thị Thắm",
+    "organization": "ĐB KP 8",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT075",
+    "name": "Nguyễn Đăng Rinh",
+    "organization": "ĐB KP 9",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT076",
+    "name": "Hồ Thị Kim Xanh",
+    "organization": "ĐB KP 10",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT077",
+    "name": "Phạm Hoàng Hà",
+    "organization": "ĐB KP 11",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT078",
+    "name": "Nguyễn Ngọc Hiệp",
+    "organization": "ĐB KP 12",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT079",
+    "name": "Nguyễn Trung Kiên",
+    "organization": "ĐB KP 13",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT080",
+    "name": "Đặng Cao Văn",
+    "organization": "ĐB KP 14",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT081",
+    "name": "Lê Đức Hướng",
+    "organization": "ĐB KP 15",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT082",
+    "name": "Phạm Thái Hưng",
+    "organization": "ĐB KP 16",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT083",
+    "name": "Bùi Thị Minh Tỵ",
+    "organization": "ĐB KP 17",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT084",
+    "name": "Huỳnh Thanh Tùng",
+    "organization": "ĐB KP 18",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT085",
+    "name": "Đinh Văn Hiến",
+    "organization": "ĐB KP 19",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT086",
+    "name": "Nguyễn Thị Tuyết Xuân",
+    "organization": "ĐB KP 20",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT087",
+    "name": "Đặng Quang Thắng",
+    "organization": "ĐB KP 21",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT088",
+    "name": "Nguyễn Thị Loan",
+    "organization": "ĐB KP 22",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT089",
+    "name": "Phạm Văn Hào",
+    "organization": "ĐB KP 23",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT090",
+    "name": "Nguyễn Thị Giang",
+    "organization": "ĐB KP 24",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT091",
+    "name": "Võ Thiị Thuẩn",
+    "organization": "ĐB KP 25",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT092",
+    "name": "Phạm Văn Bình",
+    "organization": "ĐB KP 26",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT093",
+    "name": "Trần Văn Đặng",
+    "organization": "ĐB KP 27",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT094",
+    "name": "Đàm Thị Nhung",
+    "organization": "ĐB KP 28",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT095",
+    "name": "Nguyễn Thị Liễu",
+    "organization": "ĐB KP 29",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT096",
+    "name": "Đỗ Quốc Khánh",
+    "organization": "ĐB KP 30",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT097",
+    "name": "Phan Thanh Bình",
+    "organization": "ĐB KP 31",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT098",
+    "name": "Phan Văn Hùng",
+    "organization": "ĐB KP 32",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT099",
+    "name": "Nguyễn Văn Liên",
+    "organization": "ĐB KP 33",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT100",
+    "name": "Phạm Thị Bảy",
+    "organization": "ĐB KP 34",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT101",
+    "name": "Hà Mộng Dung",
+    "organization": "ĐB KP 35",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT102",
+    "name": "Châu Phụng Kỳ",
+    "organization": "ĐB KP 36",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT103",
+    "name": "Lê Thị Lệ Thủy",
+    "organization": "ĐB KP 37",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT104",
+    "name": "Vũ Thị Linh Phương",
+    "organization": "ĐB KP 38",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT105",
+    "name": "Phùng Ngọc Hạnh",
+    "organization": "ĐB KP 39",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT106",
+    "name": "Vũ Thị Thanh",
+    "organization": "ĐB KP 40",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT107",
+    "name": "Trương Thị Thu",
+    "organization": "ĐB KP 41",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT108",
+    "name": "Trần Thị Thu Chung",
+    "organization": "ĐB KP 42",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT109",
+    "name": "Lê Anh Ghê",
+    "organization": "ĐB KP 43",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT110",
+    "name": "Nguyễn Thanh Toàn",
+    "organization": "ĐB KP 44",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT111",
+    "name": "Đ/c Nguyễn Kim Hiếu",
+    "organization": "Chủ tịch Ủy ban MTTQ Việt Nam phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT112",
+    "name": "Đ/c Nguyễn Thùy Linh",
+    "organization": "Phó Chủ tịch Ủy ban MTTQ Việt Nam phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT113",
+    "name": "Đ/c Thi Thị Ngọc Lan Thanh",
+    "organization": "Phó Chủ tịch Thường trực Ủy ban MTTQ Việt Nam phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT114",
+    "name": "Đ/c Lê Tuấn Anh",
+    "organization": "Phó Chủ tịch Ủy ban MTTQ Việt Nam phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT115",
+    "name": "Đ/c Trần Hữu Sanh",
+    "organization": "Phó Chủ tịch Hội Cựu chiến Binh phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT116",
+    "name": "Chung Thị Anh Thư",
+    "organization": "Chuyên viên UB MTTQ Việt Nam phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT117",
+    "name": "Nguyễn Thị Ngọc",
+    "organization": "Trưởng ban CTMT Khu phố 19",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT118",
+    "name": "Đ/c Nguyễn Thành Trung",
+    "organization": "Thành ủy viên, Phó Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam Thành phố, Chủ tịch Hội Nông dân Thành phố",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT119",
+    "name": "Đ/c Võ Khắc Thái",
+    "organization": "Thành ủy viên, Phó chủ tịch Thường trực Liên đoàn Lao động Thành phố",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT120",
+    "name": "Đ/c Nguyễn Minh Sơn",
+    "organization": "Phó Bí thư Đoàn TNCS Hồ Chí Minh Thành phố",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT121",
+    "name": "Đ/c Hồ Văn Đức",
+    "organization": "Phó Chủ tịch Hội Cựu chiến binh Thành phố",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT122",
+    "name": "",
+    "organization": "Đại diện Ban thường vụ Hội Liên Hiệp Phụ nữ Thành phố",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT123",
+    "name": "Đại tá Nguyễn Minh Quang",
+    "organization": "Anh hùng Lực lượng Vũ trang Nhân dân",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT124",
+    "name": "Nguyễn Thành Trung",
+    "organization": "Anh hùng Lực lượng Vũ trang Nhân dân",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT125",
+    "name": "Đ/c Phạm Trung Kiên",
+    "organization": "Bí thư Đảng ủy/Chủ tịch Hội đồng nhân dân phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT126",
+    "name": "Đ/c Lê Thị Kim Thủy",
+    "organization": "Phó Bí thư Thường trực Đảng ủy phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT127",
+    "name": "Đ/c Nguyễn Ngọc Anh",
+    "organization": "Phó Bí thư Đảng ủy/Chủ tịch Ủy ban nhân dân phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT128",
+    "name": "Đ/c Hoàng Văn Hiệu",
+    "organization": "Ủy viên Ban thường vụ Đảng ủy/Trưởng công an phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT129",
+    "name": "Đ/c Nguyễn Thị Kim Anh",
+    "organization": "Ủy viên Ban thường vụ Đảng ủy/Trưởng Ban xây dựng Đảng phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT130",
+    "name": "Đ/c Vương Hoài Nam",
+    "organization": "Ủy viên Ban thường vụ Đảng ủy/Chủ nhiệm Ủy ban kiểm tra Đảng ủy phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT131",
+    "name": "Đ/c Nguyễn Thị Thắm",
+    "organization": "Ủy viên Ban thường vụ Đảng ủy/Phó Chủ tịch Ủy ban nhân dân phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT132",
+    "name": "Đ/c Dương Văn Kim",
+    "organization": "Phó Chủ tịch Ủy ban nhân dân phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT133",
+    "name": "Đ/cTrần Hoàng Phương",
+    "organization": "Đảng ủy viên/Phó Chủ tịch HĐND Phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT134",
+    "name": "Đ/c Phan Thị Thảo",
+    "organization": "Chánh văn phòng Đảng ủy phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT135",
+    "name": "Đ/c Hoàng Thanh Sương",
+    "organization": "Chánh văn phòng HĐND&UBND phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT136",
+    "name": "Đ/c Đỗ Ngọc Lãm",
+    "organization": "Trưởng Phòng Kinh tế, Hạ tầng và Đô thị phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT137",
+    "name": "Đ/c Nguyễn Thị Ngọc Quỳnh",
+    "organization": "Trưởng phòng Văn hóa - Xã hội phường",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT138",
+    "name": "Đ/c Đỗ Khánh Ninh",
+    "organization": "Phó Giám đốc Trung tâm phục vụ hành chính công",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT139",
+    "name": "Hòa thượng Thích Giác Thuận",
+    "organization": "Viện chủ Chùa Như Lai",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT140",
+    "name": "Nhà báo Cao Anh Minh",
+    "organization": "Tổng Giám đốc Đài Phát thanh - Truyền hình Thành phố Hồ Chí Minh",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT141",
+    "name": "",
+    "organization": "Đại diện Ban Lãnh đạo Trường Đại học Công nghiệp Thành phố Hồ Chí Minh",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT142",
+    "name": "",
+    "organization": "Hội thánh Tin lành Nguồn Sáng",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT143",
+    "name": "Phạm Tiến Đảm",
+    "organization": "Bí thư chi bộ Khu phố 1",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT144",
+    "name": "Lê Thị Mỹ Thanh",
+    "organization": "Bí thư chi bộ Khu phố 2",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT145",
+    "name": "Nguyễn Văn Tình",
+    "organization": "Bí thư chi bộ Khu phố 3",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT146",
+    "name": "Nguyễn Quang Cường",
+    "organization": "Bí thư chi bộ Khu phố 4",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT147",
+    "name": "Trần Đăng Mịch",
+    "organization": "Bí thư chi bộ Khu phố 5",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT148",
+    "name": "Trần Văn Tâm",
+    "organization": "Bí thư chi bộ Khu phố 6",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT149",
+    "name": "Lê Quang Lực",
+    "organization": "Phó Bí thư chi bộ Khu phố 7",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT150",
+    "name": "Nguyễn Quốc Toàn",
+    "organization": "Bí thư chi bộ Khu phố 8",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT151",
+    "name": "Nguyễn Đăng Rinh",
+    "organization": "Bí thư chi bộ Khu phố 9",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT152",
+    "name": "Hồ Thị Kim Xanh",
+    "organization": "Bí thư chi bộ Khu phố 10",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT153",
+    "name": "Dương Hồng Thanh",
+    "organization": "Bí thư chi bộ Khu phố 11",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT154",
+    "name": "Nguyễn Ngọc Hiệp",
+    "organization": "Bí thư chi bộ Khu phố 12",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT155",
+    "name": "Lê Xuân Khương",
+    "organization": "Bí thư chi bộ Khu phố 13",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT156",
+    "name": "Đặng Cao Văn",
+    "organization": "Phó Bí thư chi bộ Khu phố 14",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT157",
+    "name": "Lê Đức Hướng",
+    "organization": "Phó Bí thư chi bộ Khu phố 15",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT158",
+    "name": "Đào Văn An",
+    "organization": "Bí thư chi bộ Khu phố 16",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT159",
+    "name": "Phan Thị Minh Hiền",
+    "organization": "Bí thư chi bộ Khu phố 17",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT160",
+    "name": "Ngô Mạnh Lưu",
+    "organization": "Bí thư chi bộ Khu phố 18",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT161",
+    "name": "Trương Thị Hồng Phương",
+    "organization": "Bí thư chi bộ Khu phố 19",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT162",
+    "name": "Phạm Văn Đức",
+    "organization": "Bí thư chi bộ Khu phố 20",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT163",
+    "name": "Phan Văn Minh",
+    "organization": "Bí thư chi bộ Khu phố 21",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT164",
+    "name": "Trần Kim Quang",
+    "organization": "Bí thư chi bộ Khu phố 22",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT165",
+    "name": "Phạm Thị Phương",
+    "organization": "Bí thư chi bộ Khu phố 23",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT166",
+    "name": "Nguyễn Văn Dũng",
+    "organization": "Bí thư chi bộ Khu phố 24",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT167",
+    "name": "Nhâm Sỹ Thắng",
+    "organization": "Bí thư chi bộ Khu phố 25",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT168",
+    "name": "Đỗ Bảo Châu",
+    "organization": "Bí thư chi bộ Khu phố 26",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT169",
+    "name": "Phạm Tuấn Long",
+    "organization": "Bí thư chi bộ Khu phố 27",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT170",
+    "name": "Nguyễn Văn Huy",
+    "organization": "Bí thư chi bộ Khu phố 28",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT171",
+    "name": "Chử Văn Sơn",
+    "organization": "Bí thư chi bộ Khu phố 29",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT172",
+    "name": "Vương Văn Hiếu",
+    "organization": "Bí thư chi bộ Khu phố 30",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT173",
+    "name": "Phan Thị Thanh Thảo",
+    "organization": "Bí thư chi bộ Khu phố 31",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT174",
+    "name": "Phan Văn Hùng",
+    "organization": "Bí thư chi bộ Khu phố 32",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT175",
+    "name": "Nguyễn Văn Liên",
+    "organization": "Bí thư chi bộ Khu phố 33",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT176",
+    "name": "Nguyễn Văn Vui",
+    "organization": "Bí thư chi bộ Khu phố 34",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT177",
+    "name": "Lê Công Luận",
+    "organization": "Bí thư chi bộ Khu phố 35",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT178",
+    "name": "Đào Nhị Kỳ",
+    "organization": "Bí thư chi bộ Khu phố 36",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT179",
+    "name": "Nguyễn Văn Soan",
+    "organization": "Bí thư chi bộ Khu phố 37",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT180",
+    "name": "Lê Xuân Thưởng",
+    "organization": "Bí thư chi bộ Khu phố 38",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT181",
+    "name": "Đỗ Văn Thái",
+    "organization": "Bí thư chi bộ Khu phố 39",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT182",
+    "name": "Hà Đức Tiền",
+    "organization": "Bí thư chi bộ Khu phố 40",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT183",
+    "name": "Trần Quang Phùng",
+    "organization": "Bí thư chi bộ Khu phố 41",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT184",
+    "name": "Trương Văn Vui",
+    "organization": "Bí thư chi bộ Khu phố 42",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT185",
+    "name": "Bùi Ngọc Hòa",
+    "organization": "Bí thư chi bộ Khu phố 43",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT186",
+    "name": "Trần Lê Thành Nhân",
+    "organization": "Bí thư chi bộ Khu phố 44",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT187",
+    "name": "Nguyễn Vĩnh Kha",
+    "organization": "Tổ phó Tổ Mặt trận thanh niên Thành Đoàn",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT188",
+    "name": "Trần Huỳnh Nam Phương",
+    "organization": "Chuyên viên Tổ Thanh niên trường học Thành Đoàn",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT189",
+    "name": "Đại diện Lãnh đạo Tổ Thanh niên Trường học Thành Đoàn",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT190",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT191",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT192",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT193",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT194",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT195",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT196",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT197",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT198",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT199",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  },
+  {
+    "id": "MT200",
+    "name": "Đại biểu dự khuyết",
+    "organization": "",
+    "room": "Mặt trận"
+  }
+]
