@@ -107,10 +107,13 @@ router.get('/stats', protect, async (req, res) => {
     for (const room of rooms) {
       const roomTotal = await Participant.countDocuments({ room });
       const roomCheckedIn = await Participant.countDocuments({ room, checkedIn: true });
+      const roomNotCheckedIn = await Participant.find({ room, checkedIn: false }).select('id name organization room');
+      
       roomStats[room] = {
         total: roomTotal,
         checkedIn: roomCheckedIn,
-        notCheckedIn: roomTotal - roomCheckedIn
+        notCheckedIn: roomTotal - roomCheckedIn,
+        notCheckedInList: roomNotCheckedIn
       };
     }
     
