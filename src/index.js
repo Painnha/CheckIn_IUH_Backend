@@ -12,7 +12,7 @@ const server = http.createServer(app);
 // Cấu hình CORS từ biến môi trường: CORS_ORIGINS="http://localhost:3000,https://your-site.com"
 const allowedOrigins = process.env.CORS_ORIGINS
   ? process.env.CORS_ORIGINS.split(',').map((o) => o.trim()).filter(Boolean)
-  : ['http://localhost:3000'];
+  : ['http://localhost:5173', 'http://localhost:3000'];
 
 const io = socketIo(server, {
   cors: {
@@ -36,8 +36,27 @@ app.use('/api/participants', require('./routes/participants.js'));  // Generate 
 
 // Socket.io events (sẽ dùng cho welcome và stats update)
 io.on('connection', (socket) => {
-  console.log('Client connected via Socket.io');
-  // Các event listener sẽ thêm sau
+  console.log('Client connected via Socket.io:', socket.id);
+
+  // Client join vào room
+  socket.on('join-room', (room) => {
+    socket.join(room);
+    console.log(`Client ${socket.id} joined room: ${room}`);
+    
+    // Gửi xác nhận join room thành công
+    socket.emit('room-joined', { room, message: `Đã tham gia room ${room}` });
+  });
+
+  // Client rời khỏi room
+  socket.on('leave-room', (room) => {
+    socket.leave(room);
+    console.log(`Client ${socket.id} left room: ${room}`);
+  });
+
+  // Disconnect
+  socket.on('disconnect', () => {
+    console.log('Client disconnected:', socket.id);
+  });
 });
 
 // Lỗi handling cơ bản

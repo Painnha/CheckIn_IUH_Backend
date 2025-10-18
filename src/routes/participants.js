@@ -3,6 +3,8 @@ const { v4: uuidv4 } = require('uuid');  // Để generate unique ID
 const Participant = require('../models/Participant');
 const { generateQR } = require('../utils/qrGenerator');
 const { protect } = require('../utils/authMiddleware');
+const fs = require('fs');
+const path = require('path');
 
 const router = express.Router();
 
@@ -43,21 +45,38 @@ router.post('/checkin', protect, async (req, res) => {
     const participant = await Participant.findOne({ id });
     if (!participant) return res.status(404).json({ message: 'Invalid QR' });
     if (participant.checkedIn) return res.status(400).json({ message: 'Already checked in' });
-    // Check expire (tùy chọn): if (Date.now() - participant.timestamp > 2 days) ...
 
     participant.checkedIn = true;
     await participant.save();
 
-    // Emit Socket.io events
-    const io = req.app.get('io');  // Giả sử set io ở index.js: app.set('io', io);
-    io.emit('welcome', { 
+    // Emit Socket.io events theo room
+    const io = req.app.get('io');
+    
+    // Map room name sang room code cho socket
+    const roomMap = {
+      'Mặt trận': 'mattran',
+      'Công đoàn': 'congdoan',
+      'Cựu chiến binh': 'cuuchienbinh',
+      'Đoàn Thanh niên': 'doantn',
+      'Phụ nữ': 'phunu'
+    };
+    
+    const roomCode = roomMap[participant.room] || participant.room;
+    
+    // Emit đến room cụ thể
+    io.to(roomCode).emit('welcome', { 
       id: participant.id,
       name: participant.name, 
       organization: participant.organization,
       room: participant.room,
+      roomCode: roomCode,
+      checkedIn: participant.checkedIn,
+      timestamp: new Date().toISOString(),
       message: `Chào mừng ${participant.name} (${participant.organization}) đến với đại hội!` 
     });
-    io.emit('stats-update');  // Để FE refresh stats
+    
+    // Emit stats update cho tất cả các room
+    io.emit('stats-update');
 
     res.json({ 
       message: 'Check-in successful',
@@ -66,9 +85,11 @@ router.post('/checkin', protect, async (req, res) => {
         name: participant.name,
         organization: participant.organization,
         room: participant.room,
+        roomCode: roomCode
       }
     });
   } catch (err) {
+    console.error('Check-in error:', err);
     res.status(500).json({ message: 'Check-in error' });
   }
 });
@@ -78,16 +99,35 @@ router.get('/stats', protect, async (req, res) => {
   try {
     const total = await Participant.countDocuments();
     const checkedInParticipants = await Participant.find({ checkedIn: true });
+    
+    // Thống kê theo room
+    const roomStats = {};
+    const rooms = ['Mặt trận', 'Công đoàn', 'Cựu chiến binh', 'Đoàn Thanh niên', 'Phụ nữ'];
+    
+    for (const room of rooms) {
+      const roomTotal = await Participant.countDocuments({ room });
+      const roomCheckedIn = await Participant.countDocuments({ room, checkedIn: true });
+      roomStats[room] = {
+        total: roomTotal,
+        checkedIn: roomCheckedIn,
+        notCheckedIn: roomTotal - roomCheckedIn
+      };
+    }
+    
     res.json({
       total,
       checkedIn: checkedInParticipants.length,
       notCheckedIn: total - checkedInParticipants.length,
+      roomStats,
       checkedInParticipants: checkedInParticipants.map(p => ({
+        id: p.id,
         name: p.name,
-        seatNumber: p.seatNumber,
+        organization: p.organization,
+        room: p.room,
       })),
     });
   } catch (err) {
+    console.error('Stats error:', err);
     res.status(500).json({ message: 'Stats error' });
   }
 });
