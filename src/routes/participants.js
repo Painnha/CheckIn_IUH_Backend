@@ -44,8 +44,10 @@ router.post('/checkin', protect, async (req, res) => {
   try {
     const participant = await Participant.findOne({ id });
     if (!participant) return res.status(404).json({ message: 'Invalid QR' });
-    if (participant.checkedIn) return res.status(400).json({ message: 'Already checked in' });
-
+    
+    // Cho phép check-in nhiều lần
+    // Nếu chưa check-in (false) thì chuyển sang true
+    // Nếu đã check-in (true) thì vẫn cho phép quét lại
     participant.checkedIn = true;
     await participant.save();
 
